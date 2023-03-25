@@ -1,0 +1,12 @@
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.dll
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\Business_Logic_Layer.pdb
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\Data_Access_Layer.dll
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\EntityFramework.dll
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\Data_Access_Layer.pdb
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\Data_Access_Layer.dll.config
+D:\Dot Net\NTierFirst\Business_Logic_Layer\bin\Debug\EntityFramework.xml
+D:\Dot Net\NTierFirst\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.AssemblyReference.cache
+D:\Dot Net\NTierFirst\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:\Dot Net\NTierFirst\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.csproj.CopyComplete
+D:\Dot Net\NTierFirst\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.dll
+D:\Dot Net\NTierFirst\Business_Logic_Layer\obj\Debug\Business_Logic_Layer.pdb

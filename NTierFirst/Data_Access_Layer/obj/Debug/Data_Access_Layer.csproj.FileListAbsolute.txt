@@ -1,0 +1,15 @@
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll.config
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\Data_Access_Layer.dll
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\Data_Access_Layer.pdb
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\EntityFramework.dll
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\EntityFramework.xml
+D:\Dot Net\NTierFirst\Data_Access_Layer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.CopyComplete
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.dll
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.pdb
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.Migrations.ReadyDb.resources
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.csproj.GenerateResource.cache
+D:\Dot Net\NTierFirst\Data_Access_Layer\obj\Debug\Data_Access_Layer.Migrations.Fix.resources
